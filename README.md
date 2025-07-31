@@ -17,7 +17,7 @@ Welcome to my AI agent collection! As a Data & AI Governance Leader with a passi
 - Recipient-specific personalization
 - Clear and concise messaging
 
-[🔗 Try it out](Professional Email Assistant)
+[🔗 Try it out]([Professional Email Assistant](https://app.mindstudio.ai/agents/untitled-ai-agent-bcfb1160/run/6c3a0273-a36b-4134-895b-03fc532eda05))
 
 ---
 
@@ -32,7 +32,7 @@ Welcome to my AI agent collection! As a Data & AI Governance Leader with a passi
 - Structured markdown formatting
 - Creative meal solutions
 
-[🔗 Try it out](My Recipe Bot)
+[🔗 Try it out][(My Recipe Bot)](https://app.mindstudio.ai/agents/my-recipe-bot-50cc79e5/run/3221380b-6a4e-4e8e-8bd9-04f837a44d5e)
 
 ---
 
@@ -48,7 +48,7 @@ Welcome to my AI agent collection! As a Data & AI Governance Leader with a passi
 - No additional input required
 - Perfect for research and knowledge management
 
-[🔗 Try it out](Key Points Extractor)
+[🔗 Try it out][(Key Points Extractor)](https://app.mindstudio.ai/agents/key-points-extractor-2bf91ef1/run)
 
 ---
 
